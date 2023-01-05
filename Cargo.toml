@@ -6,17 +6,28 @@ publish = false
 
 # Q-Bug's solution bin
 [[bin]]
+name = "day2-am-ex2"
+path = "src/solutions/day2/exercise2.rs"
+
+[[bin]]
+name = "day2-am-ex1"
+path = "src/solutions/day2/exercise1.rs"
+
+[[bin]]
 name = "day1-am-ex1"
-path = "src/solutions/day1/day1_am_exercise1.rs"
+path = "src/solutions/day1/exercise1.rs"
 
 [[bin]]
 name = "day1-am-ex2"
-path = "src/solutions/day1/day1_am_exercise2.rs"
+path = "src/solutions/day1/exercise2.rs"
 
 [[bin]]
 name = "day1-pm-ex3"
-path = "src/solutions/day1/day1_pm_exercise3.rs"
+path = "src/solutions/day1/exercise3.rs"
 
+[[bin]]
+name = "day1-pm-ex4"
+path = "src/solutions/day1/exercise4.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
