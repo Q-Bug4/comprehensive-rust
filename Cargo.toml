@@ -6,6 +6,10 @@ publish = false
 
 # Q-Bug's solution bin
 [[bin]]
+name = "day3-ex1"
+path = "src/solutions/day3/exercise1.rs"
+
+[[bin]]
 name = "day2-ex4"
 path = "src/solutions/day2/exercise4.rs"
 
@@ -36,6 +40,10 @@ path = "src/solutions/day1/exercise3.rs"
 [[bin]]
 name = "day1-ex4"
 path = "src/solutions/day1/exercise4.rs"
+
+[[bin]]
+name = "day-main"
+path = "src/solutions/main.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
