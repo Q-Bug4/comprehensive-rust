@@ -6,6 +6,10 @@ publish = false
 
 # Q-Bug's solution bin
 [[bin]]
+name = "day4-ex1"
+path = "src/solutions/day4/exercise1.rs"
+
+[[bin]]
 name = "day3-ex2"
 path = "src/solutions/day3/exercise2.rs"
 
